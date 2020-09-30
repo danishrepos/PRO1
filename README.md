@@ -1,2 +1,2 @@
 # PRO1
-A simple login page in Html and Css.
+A simple login page in Html and CSS.
